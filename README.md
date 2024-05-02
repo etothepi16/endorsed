@@ -6,4 +6,4 @@ Popular "link in bio" solutions like Linktree already exist. But let's be honest
 
 # Participate
 
-Coming soon
+Coming soon.
